@@ -1,0 +1,3 @@
+[submodule "core/coreSDK"]
+	path = core/coreSDK
+	url = https://github.com/Woosmap/geofencing-core-ios-sdk
